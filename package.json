@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kahikatea-2020/STAN-CP02#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.19.2"
   }
 }
